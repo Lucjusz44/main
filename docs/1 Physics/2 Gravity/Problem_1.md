@@ -10,9 +10,7 @@ When objects orbit each other (like planets around the Sun or the Moon around Ea
 
 ### 1. Derive the Relationship
 For circular orbits, Kepler’s Third Law says:
-$$
-T^2 \propto R^3
-$$
+T 2∝R 3
 Where:
 - $T$ = Orbital period (time to complete one orbit).
 - $R$ = Orbital radius (distance between the two objects).
