@@ -23,11 +23,15 @@ $$
 $$
 
 Where:
-- $$ \theta $$: Angle of the pendulum.
-- $$ \gamma $$: Damping coefficient (how much friction there is).
-- $$ \omega_0 $$: Natural frequency of the pendulum (how fast it swings without forcing).
-- $$ F $$: Amplitude of the external force.
-- $$ \omega $$: Frequency of the external force.
+θ: The angle of the pendulum.
+
+γ: How much friction there is (damping).
+
+ω0: How fast the pendulum swings naturally.
+
+F: How strong the pushing force is.
+
+ω: How often the pushing happens.
 
 #### Small-Angle Approximation
 For small angles, we can simplify the equation by assuming $$ \sin(\theta) \approx \theta $$. This makes the math easier and gives us approximate solutions.
