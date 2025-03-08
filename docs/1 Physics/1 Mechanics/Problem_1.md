@@ -1,7 +1,3 @@
-Got it, dudeski! Let’s break it down super simple, no fancy physics jargon, no confusing symbols. Here’s how you can explain projectile motion in a way that even someone who’s never heard of physics can understand:
-
----
-
 # How Stuff Flies Through the Air (Projectile Motion)
 
 ## What’s Happening?
