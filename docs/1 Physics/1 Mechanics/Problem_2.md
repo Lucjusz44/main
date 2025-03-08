@@ -34,18 +34,18 @@ F: How strong the pushing force is.
 ω: How often the pushing happens.
 
 #### Small-Angle Approximation
-For small angles, we can simplify the equation by assuming $$ \sin(\theta) \approx \theta $$. This makes the math easier and gives us approximate solutions.
+For small angles, we can simplify the equation by assuming sin(θ)≈θ. This makes the math easier and gives us approximate solutions.
 
 #### Resonance
-Resonance happens when the external force frequency $$ \omega $$ matches the pendulum's natural frequency $$ \omega_0 $$. At this point, the pendulum swings with maximum amplitude.
+Resonance happens when the pushing frequency ω matches the pendulum’s natural frequency ω0. At this point, the pendulum swings the most.
 
 ---
 
 ### 2. Analysis of Dynamics
 We’ll explore how the pendulum behaves under different conditions:
-- **Damping Coefficient ($$ \gamma $$)**: More damping means the pendulum stops swinging faster.
-- **Driving Amplitude ($$ F $$)**: A stronger force can make the pendulum swing more wildly.
-- **Driving Frequency ($$ \omega $$)**: If the force frequency matches the pendulum's natural frequency, resonance occurs.
+- **Damping Coefficient**: More damping means the pendulum stops swinging faster.
+- **Driving Amplitude**: A stronger force can make the pendulum swing more wildly.
+- **Driving Frequency**: If the force frequency matches the pendulum's natural frequency, resonance occurs.
 
 We’ll also look at:
 - **Regular Motion**: Predictable swinging.
